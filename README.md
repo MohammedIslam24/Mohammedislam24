@@ -6,12 +6,12 @@
 ---
 <h1> 👨‍💻 Mohammed Islam Ghomrnai </h1>
 
-<h3>🎓 Second-year Computer Science Student  | 💻 Passionate Desktop & Backend Developer </h3> 
+<h3>🎓 Second-year Computer Science Student  |  Desktop & Backend Developer </h3> 
 
-💡 Focused on building modern, efficient, and clean software with:
-- **Languages**: C#, Java, C++, Python  
-- **Frameworks**: .NET, JavaFX, WinForms, WPF  
-- **Databases**: SQL Server, MySQL  
+<h3>💡 Focused on building modern, efficient, and clean software with:</h3>
+- **Languages**: C#, Java, C++, C 
+- **Frameworks**: .NET,   
+- **Databases**: SQL Server 
 - **Concepts**: OOP, SOLID principles, Data Structures
 
 ---

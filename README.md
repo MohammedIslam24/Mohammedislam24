@@ -6,8 +6,8 @@
 ---
 <h1> 👨‍💻 Mohammed Islam Ghomrnai </h1>
 
-<h3>🎓 Second-year Computer Science Student  |  Desktop & Backend Developer </h3> 
-
+<h3>🎓 Second-year Computer Science Student </h3> 
+<h3>💻 Desktop & Backend Developer </h3>
 <h3>💡 Focused on building modern, efficient, and clean software with:</h3>
 
 - **Languages**: C#, Java, C++, C 
@@ -17,14 +17,11 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
-- 📘 **Address Book System** (8086 Assembly)
-- 📚 **Library Management App** (C# + SQL Server)
-- 💬 **Chat App** (Java + Socket Programming)
-- ✅ **To-Do List** (WPF / MVVM)
-- 🔐 **Authentication Backend API** (ASP.NET)
-
+- 📘 **Bank Management System** (C++)
+- 📚 **Library Management App** (C)
 > Explore my pinned repos for more projects!
 
 ---

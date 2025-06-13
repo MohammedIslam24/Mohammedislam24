@@ -1,3 +1,4 @@
+<img src="./A_digital_graphic_design_image_introduces_Mohammed.png" alt="Mohammed Islam GitHub Header" />
 
 <p>
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
@@ -8,58 +9,47 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Mohammed Islam
 
-I'm **Mohammed Islam**, a passionate and innovative **Computer Science student** and **desktop/backend app developer** specializing in:
+🎓 Second-year Computer Science Student  
+💻 Passionate Desktop & Backend Developer  
+💡 Focused on building modern, efficient, and clean software with:
 
-- 💻 **C#, Java, and C++**
-- 🖥️ Desktop Applications (WinForms, WPF, JavaFX)
-- 🔧 Backend Development (ASP.NET, Java Spring)
-- 🧠 Strong background in Data Structures and Algorithms
-- 📚 Lifelong learner focused on software architecture, design patterns, and system performance
-
----
-
-## 🚀 Projects & Repositories
-
-🔹 **Address Book Management System in Assembly (8086)**  
-🔹 **Library Management System – C# + SQL Server**  
-🔹 **Chat Application – Java + Sockets**  
-🔹 **To-do Desktop App – WPF/MVVM**  
-🔹 **More coming soon...**
-
-> Check out my repositories to see more of my work!
+- **Languages**: C#, Java, C++, Python  
+- **Frameworks**: .NET, JavaFX, WinForms, WPF  
+- **Databases**: SQL Server, MySQL  
+- **Concepts**: OOP, SOLID principles, Data Structures
 
 ---
 
-## 🧠 What I'm Learning Now
+## 🚀 Featured Projects
 
-- 🔍 Design patterns and SOLID principles
-- ☁️ Building REST APIs with ASP.NET Core and Java Spring Boot
-- 🧱 Low-level system programming
-- 💬 English fluency and technical communication
+- 📘 **Address Book System** (8086 Assembly)
+- 📚 **Library Management App** (C# + SQL Server)
+- 💬 **Chat App** (Java + Socket Programming)
+- ✅ **To-Do List** (WPF / MVVM)
+- 🔐 **Authentication Backend API** (ASP.NET)
 
----
-
-## 📬 Latest Blog Posts
-
-<!-- Replace with your actual blog if you have one -->
-Stay tuned! I’m currently working on blog articles about:
-- My journey learning C#
-- Tips for mastering desktop app development
-- Designing clean and scalable backend APIs
+> Explore my pinned repos for more projects!
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="Mohammed Islam GitHub Stats">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats">
 
 ---
 
-## ☕ Support My Work
+## 📚 Learning Now
+
+- 🧠 Clean architecture in C# and Java
+- 🔄 Advanced data structures & algorithms
+- 🌍 Improving English for technical interviews
+- ☁️ Building scalable backend APIs
+
+---
+
+## ☕ Support My Journey
 
 <a href="https://www.buymeacoffee.com/YOUR-LINK" target="_blank" rel="noreferrer nofollow">
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">

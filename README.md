@@ -7,9 +7,10 @@
 </p>
 
 ---
-<p1>
+<p3>
   👨‍💻 Mohammed Islam Ghomrnai
-</p1>
+</p3>
+
 🎓 Second-year Computer Science Student  
 💻 Passionate Desktop & Backend Developer  
 💡 Focused on building modern, efficient, and clean software with:

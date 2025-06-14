@@ -3,7 +3,7 @@
 <h3 align="center">💻 CS Student | 💡 Tech Enthusiast | 🌍 Based in Algeria</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;C%2B%2B+Lover+%F0%9F%92%BB;Learning+Web+Development+%F0%9F%93%90;Let's+build+something+great!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+great!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---

@@ -20,7 +20,7 @@
 ---
 <h1> 👨‍💻 Mohammed Islam Ghomrnai </h1>
 
-<h3>🎓 Second-year Computer Science Student </h3> 
+<h3>🎓 Computer Science Student </h3> 
 <h3>💻 Desktop & Backend Developer </h3>
 <h3>💡 Focused on building modern, efficient, and clean software with:</h3>
 

@@ -12,7 +12,7 @@
 <p align="center">
   
   <a href="mailto:mohammedislamghomrani2019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a hr
+
   <a href="https://github.com/MohammedIslam24"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
